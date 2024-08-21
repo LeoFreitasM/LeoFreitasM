@@ -2,7 +2,7 @@
 ### Este é Leonardo Freitas!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]([https://github.com/FernandoRoldan93](https://github.com/LeoFreitasM))
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/froldanzafra/](https://www.linkedin.com/in/leonardo-freitas-de-melo-90065a1b7/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/froldanzafra/](https://www.linkedin.com/in/leonardo-freitas-de-melo-90065a1b7/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](leofreitas798@gmail.com)
 
 Bem-vindo à minha página do Github! Eu sou Leonardo e atualmente estou concluindo minha graduação em Análise e Desenvolvimento de Sistemas no Centro Universitário Senac!
