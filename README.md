@@ -11,7 +11,7 @@ Bem-vindo à minha página do Github! Eu sou Leonardo e atualmente estou conclui
 #### 🌱 Coisas em que estou trabalhando atualmente:
 - Concluir minha graduação em ADS
 - Fazendo cursos online sobre melhores práticas de desenvolvimento.
-- Práticas comerciasi na empresa InnovaSfera
+- Práticas comerciais na empresa InnovaSfera
 
 #### :muscle: Coisas com as quais estou me desafiando:
 - Codificando pelo menos 2 horas por dia
