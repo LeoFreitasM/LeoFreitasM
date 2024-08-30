@@ -9,14 +9,14 @@ Bem-vindo à minha página do Github! Eu sou Leonardo e atualmente estou conclui
 
 
 #### 🌱 Coisas em que estou trabalhando atualmente:
-- Concluir minha graduação em ADS
-- Fazendo cursos online sobre melhores práticas de desenvolvimento.
-- Práticas comerciais na empresa InnovaSfera
+- Concluindo minha graduação em Análise e Desenvolvimento de Sistemas
+- Participando de cursos online para aprimorar minhas habilidades em desenvolvimento
+- Realizando práticas comerciais na InnovaSfera, onde estou aplicando e expandindo meu conhecimento técnico
 
 #### :muscle: Coisas com as quais estou me desafiando:
-- Codificando pelo menos 2 horas por dia
-- Exercitar-se 3 dias por semana
-- Melhorando meu currículo com alguma educação além da universidade
+- Codificar diariamente por pelo menos 2 horas para fortalecer minhas habilidades de programação
+- Manter uma rotina de exercícios físicos 3 vezes por semana para um equilíbrio saudável
+- Investir em educação contínua para complementar minha formação acadêmica e melhorar meu currículo
 
 #### :computer:  Linguagens e ferramentas de programação:
 <p>
