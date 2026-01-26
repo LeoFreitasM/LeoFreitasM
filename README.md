@@ -9,7 +9,6 @@ Bem-vindo à minha página do Github! Eu sou Leonardo e atualmente estou conclui
 
 
 #### 🌱 Coisas em que estou trabalhando atualmente:
-- Concluindo minha graduação em Análise e Desenvolvimento de Sistemas
 - Participando de cursos online para aprimorar minhas habilidades em desenvolvimento
 - Realizando práticas comerciais na InnovaSfera, onde estou aplicando e expandindo meu conhecimento técnico
 
