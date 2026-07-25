@@ -73,17 +73,6 @@ Hoje desenvolvo aplicações web completas com foco em código limpo, boas prát
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoFreitasM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFreitasM&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
